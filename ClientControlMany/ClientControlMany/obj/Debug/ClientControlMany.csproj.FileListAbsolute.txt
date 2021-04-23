@@ -1,0 +1,13 @@
+C:\Users\m\Desktop\9\NetworkSecurity\projects\Bonus\ClientControlMany\ClientControlMany\bin\Debug\ClientControlMany.exe.config
+C:\Users\m\Desktop\9\NetworkSecurity\projects\Bonus\ClientControlMany\ClientControlMany\bin\Debug\ClientControlMany.exe
+C:\Users\m\Desktop\9\NetworkSecurity\projects\Bonus\ClientControlMany\ClientControlMany\bin\Debug\ClientControlMany.pdb
+C:\Users\m\Desktop\9\NetworkSecurity\projects\Bonus\ClientControlMany\ClientControlMany\obj\Debug\ClientControlMany.exe
+C:\Users\m\Desktop\9\NetworkSecurity\projects\Bonus\ClientControlMany\ClientControlMany\obj\Debug\ClientControlMany.pdb
+C:\Users\m\Desktop\9\NetworkSecurity\projects\BonusUpdated1\ClientControlMany\ClientControlMany\bin\Debug\ClientControlMany.exe.config
+C:\Users\m\Desktop\9\NetworkSecurity\projects\BonusUpdated1\ClientControlMany\ClientControlMany\obj\Debug\ClientControlMany.exe
+C:\Users\m\Desktop\9\NetworkSecurity\projects\BonusUpdated1\ClientControlMany\ClientControlMany\obj\Debug\ClientControlMany.pdb
+C:\Users\m\Desktop\9\NetworkSecurity\projects\BonusUpdated1\ClientControlMany\ClientControlMany\bin\Debug\ClientControlMany.exe
+C:\Users\m\Desktop\9\NetworkSecurity\projects\BonusUpdated1\ClientControlMany\ClientControlMany\bin\Debug\ClientControlMany.pdb
+C:\Users\m\Desktop\9\NetworkSecurity\projects\BonusUpdated1\ClientControlMany\ClientControlMany\bin\Debug\Newtonsoft.Json.dll
+C:\Users\m\Desktop\9\NetworkSecurity\projects\BonusUpdated1\ClientControlMany\ClientControlMany\bin\Debug\Newtonsoft.Json.xml
+C:\Users\m\Desktop\9\NetworkSecurity\projects\BonusUpdated1\ClientControlMany\ClientControlMany\obj\Debug\ClientControlMany.csprojResolveAssemblyReference.cache
